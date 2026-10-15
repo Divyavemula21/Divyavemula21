@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divya Sree Vemula</h1>
-<h3 align="center">Software Engineer • Research Software Engineer</h3>
+<h3 align="center">Software Engineer • Graduate Research Assistant</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-orange?style=for-the-badge"/>
